@@ -1,0 +1,6 @@
+FakeDataset/
+.ipynb_checkpoints/
+__pycache__/
+.env
+*.pem
+.DS_Store

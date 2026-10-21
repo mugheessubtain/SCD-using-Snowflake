@@ -1,0 +1,2 @@
+faker>=19.0
+jupyterlab>=4.0
