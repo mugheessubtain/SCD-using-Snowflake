@@ -61,8 +61,6 @@ Customer attributes such as email or address change over time. Analysts need bot
 
 ```
 .
-├── data/
-│   └── Yelp-JSON.zip
 ├── docker_exp/
 │   ├── docker-compose.yml     # JupyterLab, ZooKeeper and NiFi
 │   └── docker-commands.txt    # Docker install notes for EC2
